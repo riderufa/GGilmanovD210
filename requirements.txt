@@ -1,6 +1,6 @@
 bootle==0.1.1
 bottle==0.12.17
-certifi==2019.9.11
+certifi==2022.12.7
 gunicorn==20.0.3
 sentry-sdk==0.12.3
 urllib3==1.25.7
